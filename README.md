@@ -15,11 +15,14 @@ focusing on openwrt framework
 ## Overview  
 ### Laboratory Equipment 
 #### GL-iNet 
+
+
 Name | Paramater
-- | -
+----- | -----
 Modle | GL-MIFI
 WiFi Support | 802.11b/n/g, 2.4Ghz
 Firmware | GL-iNet-6416A
+
 * [gl-inet-6416A](https://downloads.openwrt.org/releases/18.06.6/targets/ar71xx/generic/openwrt-18.06.6-ar71xx-generic-gl-inet-6416A-v1-squashfs-sysupgrade.bin), *maybe i didn't figure it out.* 
 ***
 #### Virtual Machine 
@@ -35,8 +38,10 @@ Firmware | GL-iNet-6416A
 sudo apt install 
 sudo apt install gcc g++ binutils patch bzip2 flex bison make autoconf gettext texinfo unzip sharutils libncurses5-dev ncurses-term zlib1g-dev gawk asciidoc libz-dev git-core uuid-dev libacl1-dev liblzo2-dev pkg-config libc6-dev curl libxml-parser-perl ocaml-nox
 ``` 
-No. | Terminals | No.  | Terminals
-- | - | - |- 
+
+
+No. | Terminals | No. | Terminals
+----- | ----- | ----- |----- 
 1 | gcc | 2 | g++ 
 3 | binutils | 4 | patch 
 5 | bzip2 | 6 | flex 
@@ -56,8 +61,10 @@ No. | Terminals | No.  | Terminals
 ```cmd
 sudo apt install subversion build-essential libncurses5-dev zlib1g-dev gawk git ccache gettext libssl-dev xsltproc zip
 ```
-No. | Terminals | No.  | Terminals
-- | - | - |- 
+
+
+No. | Terminals | No. | Terminals
+----- | ----- | ----- |----- 
 1 | subversion | 2 | build-essential 
 3 | libncurses5-dev | 4 | zlib1g-dev 
 5 | gawk | 6 | git 
