@@ -6,11 +6,11 @@ focusing on openwrt framework
 * If you have **any** questions, **please feel free** to contact my [Github](https://github.com/moonheadobj) and leave me a message, I will reply one by one. 
 
 ## Keywords 
->GL-iNet 
->Openwrt 
->Shell 
->C 
->LuCi 
+>`GL-iNet` 
+>`Openwrt` 
+>`Shell` 
+>`C` 
+>`LuCi` 
 
 ## Overview  
 ### Laboratory Equipment 
